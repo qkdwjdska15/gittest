@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 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dasdasdasdasd
+=======
+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
+Test1 수정
+>>>>>>> test1
